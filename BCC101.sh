@@ -17,7 +17,8 @@ echo $yellow "|[phone             ]:0888-0984-3498     |"
 echo   "$green _______________________________________"
 echo   "red        gunakan dengan baik
 echo   "white =============================="
-echo ""
+echo 
+sleep 1
 echo -e "<============================>" | lolcat
 echo -e $b "1. Webdav${enda}";
 echo -e "<============================>" | lolcat
