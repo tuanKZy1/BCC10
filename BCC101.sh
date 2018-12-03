@@ -11,22 +11,22 @@ purple='\033[1;35m'
 reset='\033[0m'
 
 echo  "$green ________________________________________"
-echo $gold "|[Author           ]:INYOURKZY       |"
+echo $gold  "|[Author           ]:INYOURKZY       |"
 echo $blue "|[Team             ]:BLACK CYBER CRUSH   |"
-echo $yellow "|[phone             ]:0888-0984-3498     |"
+echo $yellow "|[phone           ]:0888-0984-3498     |"
 echo   "$green _______________________________________"
-echo   "red        gunakan dengan baik
-echo   "white =============================="
+echo   "        gunakan dengan baik
+echo   " =============================="
 echo 
 sleep 1
-echo -e "<============================>" | lolcat
-echo -e $b "1. Webdav${enda}";
-echo -e "<============================>" | lolcat
-echo -e $b "2. Script CSRF${enda}";
-echo -e "<============================>" | lolcat
-echo -e $b "3. Keluar${enda}";
-echo -e "<============================>" | lolcat
-echo -e "silahkan pilih" | lolcat
+echo  "<============================>" | lolcat
+echo  $b "1. Webdav${enda}";
+echo  "<============================>" | lolcat
+echo  $b "2. Script CSRF${enda}";
+echo  "<============================>" | lolcat
+echo  $b "3. Keluar${enda}";
+echo  "<============================>" | lolcat
+echo  "silahkan pilih" | lolcat
 read -p "daftar diatas (///) =>" pil;
 
 # Webdav
